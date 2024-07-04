@@ -1,0 +1,13 @@
+﻿  PAWS 'N' CLAWS.cpp
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(244,6): warning C4101: 'n': unreferenced local variable
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(339,12): warning C4101: 'i': unreferenced local variable
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(533,13): warning C4101: 'location': unreferenced local variable
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(1205,47): warning C4566: character represented by universal-character-name '\u061B' cannot be represented in the current code page (1252)
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(1205,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(1195,7): warning C4101: 'inChar': unreferenced local variable
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(1290,48): warning C4566: character represented by universal-character-name '\u061B' cannot be represented in the current code page (1252)
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(1290,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\PAWS 'N' CLAWS\PAWS 'N' CLAWS.cpp(1658,38): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+  another.cpp
+  Generating Code...
+  PAWS 'N' CLAWS.vcxproj -> P:\Programming_L\C++\Projects\PAWS 'N' CLAWS\x64\Debug\PAWS 'N' CLAWS.exe

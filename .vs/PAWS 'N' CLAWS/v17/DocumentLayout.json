@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programming_L\\C\u002B\u002B\\Projects\\PAWS \u0027N\u0027 CLAWS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC393735-2E13-4B48-B037-D19AD7B3088A}|PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.vcxproj|P:\\Programming_L\\C\u002B\u002B\\Projects\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC393735-2E13-4B48-B037-D19AD7B3088A}|PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.vcxproj|solutionrelative:PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC393735-2E13-4B48-B037-D19AD7B3088A}|PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.vcxproj|P:\\Programming_L\\C\u002B\u002B\\Projects\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS\\another.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC393735-2E13-4B48-B037-D19AD7B3088A}|PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.vcxproj|solutionrelative:PAWS \u0027N\u0027 CLAWS\\another.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "another.cpp",
+              "DocumentMoniker": "P:\\Programming_L\\C\u002B\u002B\\Projects\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS\\another.cpp",
+              "RelativeDocumentMoniker": "PAWS \u0027N\u0027 CLAWS\\another.cpp",
+              "ToolTip": "P:\\Programming_L\\C\u002B\u002B\\Projects\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS\\another.cpp",
+              "RelativeToolTip": "PAWS \u0027N\u0027 CLAWS\\another.cpp",
+              "ViewState": "AQIAAGUJAAAAAAAAAAAowIAJAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T15:15:30.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PAWS \u0027N\u0027 CLAWS.cpp",
+              "DocumentMoniker": "P:\\Programming_L\\C\u002B\u002B\\Projects\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.cpp",
+              "RelativeDocumentMoniker": "PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.cpp",
+              "ToolTip": "P:\\Programming_L\\C\u002B\u002B\\Projects\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.cpp",
+              "RelativeToolTip": "PAWS \u0027N\u0027 CLAWS\\PAWS \u0027N\u0027 CLAWS.cpp",
+              "ViewState": "AQIAAGwGAAAAAAAAAAAowHYGAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-04T15:15:31.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
